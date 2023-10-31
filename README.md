@@ -1,4 +1,4 @@
-#Aplikasi Penyimpanan Buku V1.0
+#Tugas-PBO8-UTS
 
 Aplikasi ini adalah aplikasi java GUI yang menggunakan JDBC PosgreSQL
 
