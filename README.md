@@ -25,4 +25,4 @@ Tahun_Terbit char (4),
 Penerbit char (30));
 ```
 =======
->>>>>>> 6c4fcae9b768b84fb02547d7b237f2b81ebc3576
+> Nur Fatiq (09040622071)
