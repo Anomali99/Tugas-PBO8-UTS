@@ -12,6 +12,7 @@ Aplikasi ini adalah aplikasi java GUI yang menggunakan JDBC PosgreSQL
 - JDK 8
 - NetBeans IDE 15
 - PostgreSQL 14
+<<<<<<< HEAD
 
 ## Installation
 Buat Tabel Buku pada database PBO
@@ -23,3 +24,5 @@ Judul_Buku varchar (30),
 Tahun_Terbit char (4), 
 Penerbit char (30));
 ```
+=======
+>>>>>>> 6c4fcae9b768b84fb02547d7b237f2b81ebc3576
